@@ -1,13 +1,11 @@
-# "case-study" #
-[![Netlify Status](https://api.netlify.com/api/v1/badges/92226321-012b-4815-a415-72381615950e/deploy-status)](https://app.netlify.com/projects/case-study/deploys)
+# Old Chicago #
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92226321-012b-4815-a415-72381615950e/deploy-status)](https://app.netlify.com/projects/old-chicago/deploys)
 
 
 
 ```
 deliverable/
-├── index.html
 ├── styles.less
-├── scripts.js
 └── src/
     ├── favicon.svg
     ├── favicon.ico
@@ -16,7 +14,6 @@ deliverable/
     ├── apple-touch-icon.png
     ├── android-chrome-192x192.png
     ├── android-chrome-512x512.png
-    └── site.webmanifest
 ```
 
 
@@ -30,7 +27,7 @@ deliverable/
 
 ### How to build this app ###
 
-* Clone the repository [https://github.com/timhjellum/case-study](git clone https://github.com/timhjellum/case-study.git)
-* `cd "case-study`
+* Clone the repository [https://github.com/timhjellum/old-chicago](git clone https://github.com/timhjellum/old-chicago.git)
+* `cd old-chicago`
 * `npm install`
 * `run npm start`

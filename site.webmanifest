@@ -1,10 +1,10 @@
 {
-  "name": "Angels Landing",
-  "short_name": "Angels Landing",
-  "description": "A scroll-driven trail ascent visualizer for the Angels Landing hike in Zion National Park.",
+  "name": "Old Chicago - Portfolio - Case Study - Tim (Timber) Hjellum",
+  "short_name": "Old Chicago - Portfolio - Case Study - Tim (Timber) Hjellum",
+  "description": "",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#241823",
+  "background_color": "#000",
   "theme_color": "#c97a44",
   "icons": [
     {
