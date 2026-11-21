@@ -6,7 +6,7 @@
       "sizes": "192x192"
     },
     {
-      "src": "/icon-mask.png",
+      "src": "/images/icon-mask.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"

@@ -10,15 +10,15 @@
 <br><br><br>
 <figure>
 <img src="images/icon-192.png" alt="" width="192" height="192" />
-  <figcaption>icon-192x192.png (512×512) icon for Android devices</figcaption>
+  <figcaption>icon-192x192.png (512ï¿½512) icon for Android devices</figcaption>
 </figure>
 <br><br><br>
 <figure><img src="images/icon-512.png" alt="" width="512" height="512" />
-    <figcaption>icon-512.png (512×512) icon for Android devices</figcaption>
+    <figcaption>icon-512.png (512ï¿½512) icon for Android devices</figcaption>
 </figure>
 <br><br><br>
 <figure>
-<img src="images/--icon-mask.png" alt="" width="512" height="512" />
+<img src="images/icon-mask.png" alt="" width="512" height="512" />
   <figcaption>icon-mask.png (512x512) - mask is simulated</figcaption>
 </figure>
 <br>
